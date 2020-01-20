@@ -1,3 +1,11 @@
 Bethany Bea
 
 Attempting Assignment 01
+
+1. The web connects information, while the internet connects participants, or networks
+
+The internet is a cable that computers can connect to, either directly (serves) or indirectly. Everything that connects to the internet has an IP address, much like an address on a house. information is sent between computers broken down in the form of packets, and reassembled at their destination. 
+
+A directory is the same concept as folders, and is a nested way of organizing files
+
+a Version Control System allows you to collaborate with other developers, track changes you've made, and go back to a previous version if a change isn't successful
