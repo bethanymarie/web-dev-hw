@@ -1,0 +1,7 @@
+One way data is sent on the internet is as light, through fiber optic cables 
+
+An IP address is the number assigned to any device connected to the internet, like a street address. The DNS, or domain name system, associates names with the addresses.
+
+A cookie is data (a number) that websites use to remember who you are
+
+The protocol, the domain name, and the path
