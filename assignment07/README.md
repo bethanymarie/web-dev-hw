@@ -1,5 +1,5 @@
 1. id attributes are used to identify individual elements - so each element has its own unique id. Class attributes are used to group similar elements for styling purposes. Divs also group together elements, but structurally rather than stylistically. These tags are located outside or around the content, like paragraph tags. Spans are tags that are located within the content, so they can appear right in the middle of a line, and add style.
 
-2. Alt text is important because it describes the images n a page for the visually impaired.
+2. Alt text is important because it describes the images on a page for the visually impaired.
 
-3. 
+3. For this assignment (and I guess all of them at this point), I go through the homework requirements and do all the reading. Then, I start the walk through. As I go, I pause often and start building my assignment in Atom, adding main elements first, or elements I am copy and pasting from somewhere else. I always have my assignment open in Chrome so I can refresh it and make sure something worked. I do a final walk through of the assignment requirements at the end to make sure I met them. 
