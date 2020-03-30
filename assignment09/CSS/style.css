@@ -1,0 +1,43 @@
+.square{
+  width: 50%;
+
+}
+h1{
+  color: white;
+}
+
+p{
+  color: white;
+}
+
+#orange {
+  background-color: orange;
+  opacity: 0.5;
+  position: absolute;
+  height: 125px;
+
+
+}
+
+#brown {
+  background-color: brown;
+  height: 250px;
+  margin: 30px;
+
+}
+
+#green {
+  background-color: #16cd22;
+  height: 125px;
+  opacity: 0.5;
+
+}
+
+#yellow {
+  background-color: #f5ec15;
+  height: 250px;
+  margin: 30px;
+  /* Had a hard time figuring out absolute positioning and how to use it */ 
+
+
+}
