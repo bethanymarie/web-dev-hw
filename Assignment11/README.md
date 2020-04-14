@@ -1,0 +1,3 @@
+1. Padding is the space between the content f an element - say some text or an image - and the edge of the element itself. Margin is the space between the box element and the edge of its parent element, or space between it and other elements. A border is more of a visual style that helps define an element, rather than manage the space it takes up.
+
+2. My work flow always consists of me following along with the video to start, but I tried not to do it exactly this time and to just play around more with the different directions. Though I think I understand the concepts fairly well, I can't say that all of them are put to best use the way I implemented them, for example my floating element is just kind of sitting there and I can't tell if its functioning or not. 

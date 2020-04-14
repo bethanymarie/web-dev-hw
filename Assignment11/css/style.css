@@ -1,0 +1,78 @@
+body {
+  background-color: rgb(16, 198, 95);
+
+}
+
+.navigation {
+background-color:rgb(137, 203, 134);
+width: 100%;
+height: 200px;
+
+position: fixed;
+top: 0;
+left: 0;
+}
+
+.navigation a {
+  text-decoration: none;
+  color: rgb(214, 14, 158);
+}
+
+.logo {
+
+}
+
+.image:hover {
+  color: white;
+}
+
+.links a {
+display: inline-block;
+margin: 1em;
+position: relative;
+top: 0;
+left: 500px;
+  }
+
+  .image {
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    padding: 1em;
+    margin-left: 2em;
+    margin-top: 2em;
+  }
+
+.content {
+width: 100%;
+height: 400px;
+
+margin-top: 200px;
+padding: 2em 2em 2em;
+
+text-align: center;
+font-size: 200%;
+
+}
+
+.pinksquare {
+  background-color: rgb(240, 19, 204);
+  color: black;
+  text-align: center;
+float: right;
+width: 200px;
+height: 400px;
+}
+
+.content2 {
+  background-color: black;
+width: 100%;
+height: 200px;
+border-top: 100%;
+border-style: dotted;
+border-color: rgb(219, 25, 159);
+}
+.content2 h1 {
+  color: rgb(226, 27, 188);
+  text-align: center;
+}
