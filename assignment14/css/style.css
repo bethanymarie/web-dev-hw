@@ -1,0 +1,96 @@
+body {
+
+  font-family: 'Julius Sans One', sans-serif;
+  background-color: rgb(106, 142, 93);
+}
+
+nav {
+  font-family: 'Righteous', cursive;
+  text-align: center;
+  color: rgb(236, 160, 12);
+  padding: 5px;
+  margin-bottom: 5px;
+
+}
+
+
+
+
+
+/* Style for gallery*/
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: repeat(5, 5vw);
+  grid-gap: 15px;
+}
+
+.image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.galleryitem3 {
+  grid-column-start: 1;
+  grid-column-end: 3;
+  grid-row-start: 1;
+  grid-row-end: 3;
+}
+.galleryitem4 {
+  grid-column-start: 3;
+  grid-column-end: 5;
+  grid-row-start: 1;
+  grid-row-end: 3;
+}
+.galleryitem7 {
+  grid-column-start: 5;
+  grid-column-end: 9;
+  grid-row-start: 1;
+  grid-row-end: 6;
+}
+.galleryitem8 {
+  grid-column-start: 1;
+  grid-column-end: 5;
+  grid-row-start: 3;
+  grid-row-end: 6;
+}
+.galleryitem5{
+  grid-column-start: 1;
+  grid-column-end: 5;
+  grid-row-start: 6;
+  grid-row-end: 9;
+}
+
+.container {
+  width: 60%;
+  margin: 2rem auto;
+}
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  grid-template-rows: repeat(8, 5vw);
+  grid-gap: 1.5rem;
+}
+
+.gallery__img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+
+
+
+
+/* style for about page*/
+
+.AboutMe {
+  background-image: url("../images/IMG_2_Pike.jpg");
+  text-align: center;
+  color: white;
+  height: 700px;
+  padding: 5px;
+}
